@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffd166;
+    height: 100px;
+}
+
+.title{
+    margin-top: 30px;
+}
+
+.category{
+    background-color: #4361ee;
+    width: 120px;
+    height: 40px;
+    color:white;
+    margin:10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.buttons{
+    margin-top: 20px;
+}
